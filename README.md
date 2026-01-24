@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://id.linkedin.com/in/rifqi-rifaldi">
+  <a href="https://id.linkedin.com/in/mochamad-robi-9b4615206/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/@surisalbi">
+  <a href="https://www.youtube.com/">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://instagram.com/surisalbi">
+  <a href="https://instagram.com/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
@@ -28,9 +28,9 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer or Backend Developer from Pandeglang, Banten, Indonesian.
+I am a Full Stack Developer or Backend Developer from Serang, Banten, Indonesian.
 - I am a Software Engineer who develops systems and applications on both the back-end and front-end sides.
-- I have more than 5 years of experience in software development, including websites, information systems, mobile applications, and desktop applications.
+- I have more than 4 years of experience in software development, including websites, information systems, mobile applications, and desktop applications.
 - I strongly uphold commitment, integrity, and professional work ethics.
 - In my spare time, I make time to learn and explore new technologies.
 
