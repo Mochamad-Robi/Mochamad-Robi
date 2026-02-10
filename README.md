@@ -2,20 +2,14 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://id.linkedin.com/in/rifqi-rifaldi">
+  <a href="https://id.linkedin.com/in/mochamad-robi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/@surisalbi">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://instagram.com/surisalbi">
+  <a href="https://instagram.com/Mrbyy12">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 <div id="header" align="center">
-  <a href="https://surisalbi.com">
-    <img src="https://img.shields.io/website?url=https%3A%2F%2Fsurisalbi.com" alt="Website"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 <h1>
   hey there
@@ -28,7 +22,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer or Backend Developer from Pandeglang, Banten, Indonesian.
+I am a Full Stack Developer or Backend Developer from Serang, Banten, Indonesian.
 - I am a Software Engineer who develops systems and applications on both the back-end and front-end sides.
 - I have more than 5 years of experience in software development, including websites, information systems, mobile applications, and desktop applications.
 - I strongly uphold commitment, integrity, and professional work ethics.
@@ -42,7 +36,6 @@ I am a Full Stack Developer or Backend Developer from Pandeglang, Banten, Indone
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="Codeigniter" alt="Codeigniter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" **alt="Golang" width="40" height="40"/>&nbsp;
   <h4>Frontend</h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" **alt="Vue" width="40" height="40"/>
